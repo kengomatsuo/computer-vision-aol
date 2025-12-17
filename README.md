@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/marcosvolpato/edible-and-poisonous-fungi/data?select=poisonous+sporocarp

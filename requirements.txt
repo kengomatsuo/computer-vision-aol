@@ -1,0 +1,11 @@
+pandas
+torchvision
+torch
+numpy
+matplotlib
+albumentations
+opencv-python
+opencv-contrib-python
+timm
+scikit-learn
+grad-cam
