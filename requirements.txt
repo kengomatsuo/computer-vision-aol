@@ -1,11 +1,13 @@
+ipykernel
 pandas
 torchvision
 torch
+pytorch-lightning
 numpy
 matplotlib
+seaborn
 albumentations
 opencv-python
-opencv-contrib-python
 timm
 scikit-learn
 grad-cam

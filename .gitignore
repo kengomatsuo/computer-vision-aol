@@ -1,1 +1,6 @@
 /.venv
+/checkpoints
+/lightning_logs
+/local
+
+**/**.pt
